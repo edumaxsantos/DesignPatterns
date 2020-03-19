@@ -1,6 +1,6 @@
 package br.com.edumaxsantos.behavioral.templateMethod.example1;
 /*
-1. Standarlize the skeleton of an algorithm in a base class "template" method
+1. Standardize the skeleton of an algorithm in a base class "template" method
 2. Common implementations of individual steps are defined in the base class
 3. Steps requiring peculiar implementations are "placeholders" in base class
 4. Derived classes can override placeholder methods
